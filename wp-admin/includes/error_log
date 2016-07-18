@@ -1,0 +1,1 @@
+[25-May-2015 23:06:42] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/alcoholi/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36

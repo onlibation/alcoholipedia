@@ -1,0 +1,61 @@
+[21-Feb-2012 13:26:00] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/404.php on line 1
+[21-Feb-2012 13:26:20] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/archive.php on line 1
+[21-Feb-2012 13:26:38] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[21-Feb-2012 13:27:53] PHP Warning:  require_once(TEMPLATEPATH/functions/admin-init.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/functions.php on line 12
+[21-Feb-2012 13:27:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'TEMPLATEPATH/functions/admin-init.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/functions.php on line 12
+[21-Feb-2012 13:28:12] PHP Fatal error:  Call to undefined function  woo_active_sidebar() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/footer.php on line 5
+[21-Feb-2012 13:40:07] PHP Fatal error:  Call to undefined function  woo_title() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/header.php on line 5
+[21-Feb-2012 13:52:02] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[21-Feb-2012 13:53:18] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/page.php on line 1
+[21-Feb-2012 13:53:37] PHP Fatal error:  Call to undefined function  bloginfo() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search-form.php on line 2
+[21-Feb-2012 13:53:55] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search.php on line 1
+[21-Feb-2012 13:54:14] PHP Fatal error:  Call to undefined function  woo_active_sidebar() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/sidebar.php on line 8
+[21-Feb-2012 13:54:33] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/single-portfolio.php on line 1
+[21-Feb-2012 13:54:52] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/single.php on line 1
+[21-Feb-2012 13:55:29] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/template-archives.php on line 6
+[21-Feb-2012 13:55:48] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/template-blog.php on line 6
+[21-Feb-2012 13:56:07] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/template-contact.php on line 76
+[21-Feb-2012 13:56:26] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/template-fullwidth.php on line 6
+[21-Feb-2012 13:56:44] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/template-imagegallery.php on line 6
+[21-Feb-2012 13:57:04] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/template-portfolio.php on line 7
+[21-Feb-2012 13:57:22] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/template-sitemap.php on line 6
+[21-Feb-2012 13:57:41] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/template-tags.php on line 6
+[21-Feb-2012 13:58:00] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/template-timeline.php on line 6
+[22-Feb-2012 16:11:38] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[22-Feb-2012 16:17:22] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[22-Feb-2012 16:18:40] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[27-Mar-2012 17:26:29] PHP Fatal error:  Call to undefined function  bloginfo() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search-form.php on line 2
+[24-May-2012 17:02:48] PHP Fatal error:  Call to undefined function  bloginfo() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search-form.php on line 2
+[26-May-2012 08:51:41] PHP Fatal error:  Call to undefined function  bloginfo() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search-form.php on line 2
+[27-May-2012 15:06:07] PHP Fatal error:  Call to undefined function  bloginfo() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search-form.php on line 2
+[30-May-2012 00:44:48] PHP Fatal error:  Call to undefined function  bloginfo() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search-form.php on line 2
+[01-Jun-2012 19:21:23] PHP Fatal error:  Call to undefined function  bloginfo() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search-form.php on line 2
+[20-Jun-2012 02:56:41] PHP Fatal error:  Call to undefined function  bloginfo() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search-form.php on line 2
+[02-Jul-2012 06:04:12] PHP Fatal error:  Call to undefined function  bloginfo() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search-form.php on line 2
+[04-Aug-2012 01:20:17] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[19-Aug-2012 06:26:42] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[02-Sep-2012 08:09:17] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[13-Dec-2012 06:52:09] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[21-Jan-2013 05:42:48] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[13-Mar-2013 11:41:56] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[13-Mar-2013 11:41:56] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[02-Apr-2013 22:22:14] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[17-Apr-2013 22:42:13] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[29-Apr-2013 14:51:43] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[29-Apr-2013 14:51:44] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[23-May-2013 00:21:42] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[03-Jun-2013 01:24:33] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[22-Jul-2013 05:11:52] PHP Warning:  imagecreatefromgif() [<a href='function.imagecreatefromgif'>function.imagecreatefromgif</a>]: '/home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/cache/external_8926f98989d1219c1dd3ff6145378618.php' is not a valid GIF file in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php on line 381
+[22-Jul-2013 05:11:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php:381) in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php on line 828
+[22-Jul-2013 05:12:54] PHP Warning:  imagecreatefromgif() [<a href='function.imagecreatefromgif'>function.imagecreatefromgif</a>]: '/home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/cache/external_8926f98989d1219c1dd3ff6145378618.php' is not a valid GIF file in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php on line 381
+[22-Jul-2013 05:12:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php:381) in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php on line 828
+[22-Jul-2013 05:12:56] PHP Warning:  imagecreatefromgif() [<a href='function.imagecreatefromgif'>function.imagecreatefromgif</a>]: '/home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/cache/external_9b514a0e3eeb70afddd95d3758264235.php' is not a valid GIF file in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php on line 381
+[22-Jul-2013 05:12:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php:381) in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php on line 828
+[22-Jul-2013 05:12:57] PHP Warning:  imagecreatefromgif() [<a href='function.imagecreatefromgif'>function.imagecreatefromgif</a>]: '/home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/cache/external_8926f98989d1219c1dd3ff6145378618.php' is not a valid GIF file in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php on line 381
+[22-Jul-2013 05:12:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php:381) in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/thumb.php on line 828
+[19-Nov-2013 01:32:32] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[19-Jan-2014 00:41:29] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[01-May-2015 06:22:31] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[02-May-2015 10:01:14] PHP Fatal error:  Call to undefined function  bloginfo() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/search-form.php on line 2
+[27-May-2015 03:53:38] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3
+[07-Dec-2015 03:12:29] PHP Fatal error:  Call to undefined function  get_header() in /home/alcoholi/public_html/wp-content/themes/simplicity/simplicity/index.php on line 3

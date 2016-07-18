@@ -1,0 +1,5 @@
+[02-May-2015 21:33:42] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/alcoholi/public_html/wp-includes/theme-compat/footer.php on line 10
+[02-May-2015 21:33:55] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/alcoholi/public_html/wp-includes/theme-compat/header.php on line 10
+[02-May-2015 21:34:18] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/alcoholi/public_html/wp-includes/theme-compat/sidebar.php on line 10
+[02-May-2015 21:35:34] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/alcoholi/public_html/wp-includes/theme-compat/comments.php on line 10
+[02-May-2015 21:36:00] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/alcoholi/public_html/wp-includes/theme-compat/comments-popup.php on line 10

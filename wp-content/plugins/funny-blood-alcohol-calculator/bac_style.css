@@ -1,0 +1,21 @@
+.bac_calc_text{
+color:#333333; 
+font-weight: bold;
+font-size:14px;
+font-family: Arial, sans-serif; font-size:14px;
+} 
+
+.bac_calc_header{
+color:#333333; 
+font-family: Arial, sans-serif; 
+font-size:12px;
+} 
+
+.bac_box{
+border: 1px solid #000000;
+background-color: #FFFFFF;
+}
+
+.bac_button{
+background-color:#FFFFFF;
+}

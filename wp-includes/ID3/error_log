@@ -1,0 +1,15 @@
+[02-May-2015 21:32:18] PHP Warning:  realpath() [<a href='function.realpath'>function.realpath</a>]: SAFE MODE Restriction in effect.  The script whose uid is 503 is not allowed to access /tmp owned by uid 0 in /home/alcoholi/public_html/wp-includes/ID3/getid3.php on line 31
+[02-May-2015 21:33:58] PHP Fatal error:  Class 'getid3_handler' not found in /home/alcoholi/public_html/wp-includes/ID3/module.audio.mp3.php on line 24
+[02-May-2015 21:34:01] PHP Fatal error:  Class 'getid3_lib' not found in /home/alcoholi/public_html/wp-includes/ID3/module.audio.ogg.php on line 16
+[02-May-2015 21:34:04] PHP Fatal error:  Class 'getid3_lib' not found in /home/alcoholi/public_html/wp-includes/ID3/module.tag.id3v2.php on line 16
+[02-May-2015 21:34:08] PHP Fatal error:  Class 'getid3_handler' not found in /home/alcoholi/public_html/wp-includes/ID3/module.audio.ac3.php on line 17
+[02-May-2015 21:34:11] PHP Fatal error:  Class 'getid3_handler' not found in /home/alcoholi/public_html/wp-includes/ID3/module.audio.dts.php on line 20
+[02-May-2015 21:34:14] PHP Fatal error:  Class 'getid3_handler' not found in /home/alcoholi/public_html/wp-includes/ID3/module.tag.id3v1.php on line 17
+[02-May-2015 21:35:41] PHP Fatal error:  Class 'getid3_handler' not found in /home/alcoholi/public_html/wp-includes/ID3/module.tag.apetag.php on line 16
+[02-May-2015 21:35:44] PHP Fatal error:  Class 'getid3_lib' not found in /home/alcoholi/public_html/wp-includes/ID3/module.audio.flac.php on line 17
+[02-May-2015 21:35:50] PHP Fatal error:  Class 'getid3_handler' not found in /home/alcoholi/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 17
+[02-May-2015 21:35:53] PHP Fatal error:  Class 'getid3_handler' not found in /home/alcoholi/public_html/wp-includes/ID3/module.audio-video.flv.php on line 70
+[02-May-2015 21:35:57] PHP Fatal error:  Class 'getid3_lib' not found in /home/alcoholi/public_html/wp-includes/ID3/module.audio-video.asf.php on line 16
+[02-May-2015 21:36:03] PHP Fatal error:  Class 'getid3_lib' not found in /home/alcoholi/public_html/wp-includes/ID3/module.audio-video.riff.php on line 25
+[02-May-2015 21:36:08] PHP Fatal error:  Class 'getid3_handler' not found in /home/alcoholi/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 215
+[02-May-2015 21:36:09] PHP Fatal error:  Class 'getid3_lib' not found in /home/alcoholi/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 17

@@ -1,0 +1,7 @@
+[21-Feb-2012 10:59:14] PHP Fatal error:  Call to undefined function  get_option() in /home/alcoholi/public_html/wp-content/plugins/funny-blood-alcohol-calculator/alcoholcalculator.php on line 27
+[22-Feb-2012 16:12:45] PHP Fatal error:  Call to undefined function  get_option() in /home/alcoholi/public_html/wp-content/plugins/funny-blood-alcohol-calculator/alcoholcalculator.php on line 27
+[09-Sep-2012 15:56:26] PHP Fatal error:  Call to undefined function  get_option() in /home/alcoholi/public_html/wp-content/plugins/funny-blood-alcohol-calculator/alcoholcalculator.php on line 27
+[22-Apr-2013 00:12:56] PHP Fatal error:  Call to undefined function  get_option() in /home/alcoholi/public_html/wp-content/plugins/funny-blood-alcohol-calculator/alcoholcalculator.php on line 27
+[08-Jan-2014 04:41:17] PHP Fatal error:  Call to undefined function  get_option() in /home/alcoholi/public_html/wp-content/plugins/funny-blood-alcohol-calculator/alcoholcalculator.php on line 27
+[01-Jun-2015 18:34:20] PHP Fatal error:  Call to undefined function  get_option() in /home/alcoholi/public_html/wp-content/plugins/funny-blood-alcohol-calculator/alcoholcalculator.php on line 27
+[05-Sep-2015 02:20:38] PHP Fatal error:  Call to undefined function  get_option() in /home/alcoholi/public_html/wp-content/plugins/funny-blood-alcohol-calculator/alcoholcalculator.php on line 27
